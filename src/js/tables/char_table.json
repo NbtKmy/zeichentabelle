@@ -1,0 +1,2008 @@
+[{
+    "char": "\u00c4",
+    "desc": "Gro\u00dfbuchstabe f\u00fcr den deutschen Umlaut A",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00d6",
+    "desc": "Gro\u00dfbuchstabe f\u00fcr den deutschen Umlaut O",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00dc",
+    "desc": "Gro\u00dfbuchstabe f\u00fcr den deutschen Umlaut U",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00e4",
+    "desc": "Kleinbuchstabe f\u00fcr den deutschen Umlaut a",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00f6",
+    "desc": "Kleinbuchstabe f\u00fcr den deutschen Umlaut o",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00fc",
+    "desc": "Kleinbuchstabe f\u00fcr den deutschen Umlaut u",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00df",
+    "desc": "Scharfes S / sz",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00c0",
+    "desc": "Gro\u00dfbuchstabe A mit Gravis-Akzent",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00c8",
+    "desc": "Gro\u00dfbuchstabe E mit Gravis-Akzent",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00cc",
+    "desc": "Gro\u00dfbuchstabe I mit Gravis-Akzent",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00d2",
+    "desc": "Gro\u00dfbuchstabe O mit Gravis-Akzent",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00d9",
+    "desc": "Gro\u00dfbuchstabe U mit Gravis-Akzent",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00e0",
+    "desc": "Kleinbuchstabe a mit Gravis-Akzent",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00e8",
+    "desc": "Kleinbuchstabe e mit Gravis-Akzent",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00ec",
+    "desc": "Kleinbuchstabe i mit Gravis-Akzent",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00f2",
+    "desc": "Kleinbuchstabe o mit Gravis-Akzent",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00f9",
+    "desc": "Kleinbuchstabe u mit Gravis-Akzent",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00c1",
+    "desc": "Gro\u00dfbuchstabe A mit Accent aigu",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00c9",
+    "desc": "Gro\u00dfbuchstabe E mit Accent aigu",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00cd",
+    "desc": "Gro\u00dfbuchstabe I mit Accent aigu",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00d3",
+    "desc": "Gro\u00dfbuchstabe O mit Accent aigu",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00da",
+    "desc": "Gro\u00dfbuchstabe U mit Accent aigu",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00dd",
+    "desc": "Gro\u00dfbuchstabe Y mit Accent aigu",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00e1",
+    "desc": "Kleinbuchstabe a mit Accent aigu",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00e9",
+    "desc": "Kleinbuchstabe e mit Accent aigu",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00ed",
+    "desc": "Kleinbuchstabe i mit Accent aigu",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00f3",
+    "desc": "Kleinbuchstabe o mit Accent aigu",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00fa",
+    "desc": "Kleinbuchstabe u mit Accent aigu",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u00fd",
+    "desc": "Kleinbuchstabe y mit Accent aigu",
+    "section": "HTML Sonderzeichen - Umlaute, Gravis und Akzente"
+  }, {
+    "char": "\u2713",
+    "desc": "Haken-Symbol",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u2714",
+    "desc": "Haken-Symbol (fett)",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u2716",
+    "desc": "Multiplikation / Nein (fett)",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u2718",
+    "desc": "Stimme: Nein (fett)",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u00ab",
+    "desc": "Typographisches Anf\u00fchrungszeichen",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u00bb",
+    "desc": "Typographisches Anf\u00fchrungszeichen",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u2022",
+    "desc": "Ausgef\u00fcllter Kreis, Aufz\u00e4hlungszeichen",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u2605",
+    "desc": "Ausgef\u00fcllter 5-zackiger Stern",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u2665",
+    "desc": "Herz-Sonderzeichen",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u2764",
+    "desc": "Herzsymbol (sehr fett)",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u2192",
+    "desc": "Normaler Pfeil nach rechts",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u21d2",
+    "desc": "Doppelpfeil nach rechts",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u27a8",
+    "desc": "Dicker Pfeil, Dingbats",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u2794",
+    "desc": "Dicker Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u25b6",
+    "desc": "Play-Zeichen / gef\u00fclltes Dreieck, nach rechts zeigend",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u27a4",
+    "desc": "Ausgef\u00fcllter 3D-Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u27a5",
+    "desc": "Dicker Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u2706",
+    "desc": "Telefon-Symbol",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u2709",
+    "desc": "Briefumschlag-Symbol",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u2708",
+    "desc": "Flugzeug-Symbol",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u00a9",
+    "desc": "Copyright-Zeichen",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u00ae",
+    "desc": "Zeichen f\u00fcr eine eingetragene Handelsmarke",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\" \"",
+    "desc": "Erzwungenes Leerzeichen",
+    "section": "HTML Sonderzeichen - Favoriten"
+  }, {
+    "char": "\u2669",
+    "desc": "Viertelnote",
+    "section": "HTML Sonderzeichen: Musik"
+  }, {
+    "char": "\u266a",
+    "desc": "Achtelnote",
+    "section": "HTML Sonderzeichen: Musik"
+  }, {
+    "char": "\u266b",
+    "desc": "Achtelnote (mit Balken)",
+    "section": "HTML Sonderzeichen: Musik"
+  }, {
+    "char": "\u266c",
+    "desc": "Sechzehntelnote (mit Doppelbalken)",
+    "section": "HTML Sonderzeichen: Musik"
+  }, {
+    "char": "\u266d",
+    "desc": "b Notenzeichen",
+    "section": "HTML Sonderzeichen: Musik"
+  }, {
+    "char": "\u266e",
+    "desc": "Aufl\u00f6sungszeichen (Musiknote)",
+    "section": "HTML Sonderzeichen: Musik"
+  }, {
+    "char": "\u266f",
+    "desc": "Kreuz (Musiknote)",
+    "section": "HTML Sonderzeichen: Musik"
+  }, {
+    "char": "\u25b6",
+    "desc": "Play-Zeichen / gef\u00fclltes Dreieck, nach rechts zeigend",
+    "section": "HTML Sonderzeichen: Musik"
+  }, {
+    "char": "\u25a0",
+    "desc": "Stopp / Schwarz gef\u00fcllter Block",
+    "section": "HTML Sonderzeichen: Musik"
+  }, {
+    "char": "\u2190",
+    "desc": "Pfeil nach links",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u2191",
+    "desc": "Pfeil nach oben",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u2192",
+    "desc": "Pfeil nach rechts",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u2193",
+    "desc": "Pfeil nach unten",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u2194",
+    "desc": "Pfeil nach links und rechts",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u21b5",
+    "desc": "\"Enter\"-Pfeil",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u21d0",
+    "desc": "Doppelpfeil nach links",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u21d1",
+    "desc": "Doppelpfeil nach oben",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u21d2",
+    "desc": "Doppelpfeil nach rechts",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u21d3",
+    "desc": "Doppelpfeil nach unten",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u21d4",
+    "desc": "Doppelpfeil nach links und rechts",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27a5",
+    "desc": "Dicker Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27a6",
+    "desc": "Dicker Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27a7",
+    "desc": "Dicker Pfeil, quadratisch (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27a8",
+    "desc": "Dicker Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27a9",
+    "desc": "Dicker Pfeil nach rechts, wei\u00df (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u2794",
+    "desc": "Dicker Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u2798",
+    "desc": "Dicker pfeil nach rechts-unten (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u2799",
+    "desc": "Dicker Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u279a",
+    "desc": "Dicker Pfeil nach rechts-oben (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u279b",
+    "desc": "Pfeil nach rechts mit gro\u00dfer Spitze (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u279c",
+    "desc": "Dicker Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u279d",
+    "desc": "Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u279e",
+    "desc": "D\u00fcnner Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u279f",
+    "desc": "Pfeil mit Ansatz, nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27a0",
+    "desc": "Dicker Pfeil mit Ansatz, nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27a1",
+    "desc": "Sehr dicker Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27a2",
+    "desc": "3D-Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27a3",
+    "desc": "3D-Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27a4",
+    "desc": "Ausgef\u00fcllter 3D-Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27aa",
+    "desc": "Dicker Pfeil nach rechts, wei\u00df (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27ab",
+    "desc": "Gekippter Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27ac",
+    "desc": "Gekippter Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27ad",
+    "desc": "Pfeil nach rechts, wei\u00df, quadratisch (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27ae",
+    "desc": "Pfeil nach rechts, wei\u00df, quadratisch (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27af",
+    "desc": "Dicker, wei\u00dfer Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27b1",
+    "desc": "Dicker, wei\u00dfer Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27b2",
+    "desc": "Dicker, wei\u00dfer Pfeil nach rechts im schwarzen Kreis (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27b3",
+    "desc": "Pfeil-und-Bogen-f\u00f6rmiger Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27b4",
+    "desc": "Pfeil-und-Bogen-f\u00f6rmiger Pfeil nach rechts-unten (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27b5",
+    "desc": "Pfeil-und-Bogen-f\u00f6rmiger Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27b6",
+    "desc": "Pfeil-und-Bogen-f\u00f6rmiger Pfeil nach rechts-oben (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27b7",
+    "desc": "Pfeil-und-Bogen-f\u00f6rmiger Pfeil nach rechts-unten (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27b8",
+    "desc": "Pfeil-und-Bogen-f\u00f6rmiger Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27b9",
+    "desc": "Pfeil-und-Bogen-f\u00f6rmiger Pfeil nach rechts-oben (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27ba",
+    "desc": "Tropfenf\u00f6rmiger Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27bb",
+    "desc": "Tropfenf\u00f6rmiger Pfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27bd",
+    "desc": "Pfeil nach rechts, geschwungen (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u27be",
+    "desc": "Doppelpfeil nach rechts (Dingbats)",
+    "section": "HTML Sonderzeichen: Pfeile"
+  }, {
+    "char": "\u00ac",
+    "desc": "Negierung",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u00af",
+    "desc": "Makron",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u00b0",
+    "desc": "Grad",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u00b1",
+    "desc": "Plusminus",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u00b2",
+    "desc": "im Quadrat / Hoch 2",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u00b3",
+    "desc": "Kubik / Hoch 3",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u00b7",
+    "desc": "Mittelpunkt",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u00b9",
+    "desc": "Hoch 1",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u00bc",
+    "desc": "ein Viertel",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u00bd",
+    "desc": "ein Halb",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u00be",
+    "desc": "drei Viertel",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u00d7",
+    "desc": "Multiplikation",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u00f7",
+    "desc": "Division",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "<",
+    "desc": "weniger als",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": ">",
+    "desc": "mehr als",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u2030",
+    "desc": "Promille",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u2044",
+    "desc": "Bruch",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u2082",
+    "desc": "Tiefgestellte 2 (etwa f\u00fcr CO\u2082 f\u00fcr Kohlenstoffdioxid)",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u2083",
+    "desc": "Tiefgestellte 3 (etwa f\u00fcr H\u2082CO\u2083 f\u00fcr Kohlens\u00e4ure)",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u2211",
+    "desc": "Summenzeichen",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u2212",
+    "desc": "Minuszeichen",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u221a",
+    "desc": "Quadratwurzel",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u221e",
+    "desc": "unendlich",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u2220",
+    "desc": "Winkel",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u223c",
+    "desc": "Tilde-Operator = \u00e4hnlich wie",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u2245",
+    "desc": "ungef\u00e4hr gleich",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u2248",
+    "desc": "fast gleich = asymptotisch zu",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u2260",
+    "desc": "nicht gleich",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u2261",
+    "desc": "identisch",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u2264",
+    "desc": "weniger oder gleich",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u2265",
+    "desc": "gr\u00f6\u00dfer oder gleich",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u2295",
+    "desc": "Pluszeichen im Kreis = direkte Summe",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u2297",
+    "desc": "Multiplikationszeichen im Kreis = Vektorprodukt",
+    "section": "HTML Sonderzeichen: Mathematik"
+  }, {
+    "char": "\u20ac",
+    "desc": "Euro",
+    "section": "HTML Sonderzeichen: W\u00e4hrungen"
+  }, {
+    "char": "\u00a2",
+    "desc": "US-Cent",
+    "section": "HTML Sonderzeichen: W\u00e4hrungen"
+  }, {
+    "char": "\u00a3",
+    "desc": "britisches Pfund",
+    "section": "HTML Sonderzeichen: W\u00e4hrungen"
+  }, {
+    "char": "\u00a5",
+    "desc": "japanischer Yen",
+    "section": "HTML Sonderzeichen: W\u00e4hrungen"
+  }, {
+    "char": "\u2308",
+    "desc": "Rahmen - linke obere Ecke",
+    "section": "HTML Sonderzeichen: Grafiken"
+  }, {
+    "char": "\u2309",
+    "desc": "Rahmen - rechte obere Ecke",
+    "section": "HTML Sonderzeichen: Grafiken"
+  }, {
+    "char": "\u230a",
+    "desc": "Rahmen - linke untere Ecke",
+    "section": "HTML Sonderzeichen: Grafiken"
+  }, {
+    "char": "\u230b",
+    "desc": "Rahmen - rechte untere Ecke",
+    "section": "HTML Sonderzeichen: Grafiken"
+  }, {
+    "char": "\u25ca",
+    "desc": "Raute",
+    "section": "HTML Sonderzeichen: Grafiken"
+  }, {
+    "char": "\u2660",
+    "desc": "Pik (Kartenspiel)",
+    "section": "HTML Sonderzeichen: Grafiken"
+  }, {
+    "char": "\u2663",
+    "desc": "Kreuz (Kartenspiel)",
+    "section": "HTML Sonderzeichen: Grafiken"
+  }, {
+    "char": "\u2665",
+    "desc": "Herz-Sonderzeichen (Kartenspiel)",
+    "section": "HTML Sonderzeichen: Grafiken"
+  }, {
+    "char": "\u2666",
+    "desc": "Karo (Kartenspiel)",
+    "section": "HTML Sonderzeichen: Grafiken"
+  }, {
+    "char": "\" \"",
+    "desc": "Erzwungenes Leerzeichen",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u00a6",
+    "desc": "senkrechter Strich mit Unterbrechung",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u00a9",
+    "desc": "Copyright-Zeichen",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u00aa",
+    "desc": "Weibliche Ordnungszahl",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u00ab",
+    "desc": "typographisches Anf\u00fchrungszeichen (links)",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\"\u00ad\"",
+    "desc": "Trennzeichen (klein)",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u00ae",
+    "desc": "Zeichen f\u00fcr eine registrierte, eingetragene Handelsmarke",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u00b6",
+    "desc": "Absatzzeichen",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u00ba",
+    "desc": "M\u00e4nnliche Ordnungszahl",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u00bb",
+    "desc": "typographisches Anf\u00fchrungszeichen (rechts)",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u00bf",
+    "desc": "umgekehrtes Fragezeichen",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u2022",
+    "desc": "Ausgef\u00fcllter Kreis, Anf\u00fchrungszeichen",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u2026",
+    "desc": "Dreifachpunkt, Punkt-Punkt-Punkt",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u2032",
+    "desc": "Anf\u00fchrungszeichen (Minuten-Zeichen)",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u2033",
+    "desc": "Anf\u00fchrungszeichen (Sekunden-Zeichen)",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u203e",
+    "desc": "\u00dcberstrich",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u2329",
+    "desc": "linke, eckige Klammer",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u232a",
+    "desc": "rechte, eckige Klammer",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "&",
+    "desc": "Und-Zeichen",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u2013",
+    "desc": "Gedankenstrich",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u2014",
+    "desc": "Gedankenstrich, gro\u00df",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u2018",
+    "desc": "Anf\u00fchrungszeichen oben (links)",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u2019",
+    "desc": "Anf\u00fchrungszeichen oben (rechts)",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u201a",
+    "desc": "Anf\u00fchrungszeichen unten",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u201c",
+    "desc": "Doppeltes Anf\u00fchrungszeichen oben (links)",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u201d",
+    "desc": "Doppeltes Anf\u00fchrungszeichen oben (rechts)",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u201e",
+    "desc": "Doppeltes Anf\u00fchrungszeichen unten",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u2039",
+    "desc": "Anf\u00fchrungszeichen (links, einzeln)",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u203a",
+    "desc": "Anf\u00fchrungszeichen (rechts, einzeln)",
+    "section": "HTML Sonderzeichen: Typo (Typografie)"
+  }, {
+    "char": "\u00a1",
+    "desc": "umgekehrtes Ausrufezeichen",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u00a7",
+    "desc": "Paragraph, Absatzzeichen",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u00a8",
+    "desc": "Umlaut mit Leerraum",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u00b4",
+    "desc": "Akut mit Leerraum",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u00b5",
+    "desc": "Mikro (Einheit)",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u00b8",
+    "desc": "Cedilla mit Leerraum",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u00c1",
+    "desc": "gr. lat. A mit Akut",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u00c4",
+    "desc": "\u00c4",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u00c6",
+    "desc": "gr. lat. AE = gro\u00dfe lateinische Ligatur AE",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u00d6",
+    "desc": "\u00d6",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u00dc",
+    "desc": "\u00dc",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u00e4",
+    "desc": "\u00e4",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u00e6",
+    "desc": "kl. lat. ae = kleine lateinische Ligatur ae",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u00f6",
+    "desc": "\u00f6",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u00fc",
+    "desc": "\u00fc",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u2122",
+    "desc": "Handelsmarke / Trademark",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u0152",
+    "desc": "gro\u00dfe lateinische Ligatur OE",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u0153",
+    "desc": "kleine lateinische Ligatur oe",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u0160",
+    "desc": "gr. lat. S mit Caron",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u02c6",
+    "desc": "Zirkumflex",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u02dc",
+    "desc": "kleine Tilde",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u2020",
+    "desc": "Dolch",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u2021",
+    "desc": "doppelter Dolch",
+    "section": "HTML Sonderzeichen: Sonstige"
+  }, {
+    "char": "\u2776",
+    "desc": "Zahl 1 (Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u2777",
+    "desc": "Zahl 2 (Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u2778",
+    "desc": "Zahl 3 (Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u2779",
+    "desc": "Zahl 4 (Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u277a",
+    "desc": "Zahl 5 (Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u277b",
+    "desc": "Zahl 6 (Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u277c",
+    "desc": "Zahl 7 (Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u277d",
+    "desc": "Zahl 8 (Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u277e",
+    "desc": "Zahl 9 (Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u277f",
+    "desc": "Zahl 10 (Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u2780",
+    "desc": "Zahl 1 (Zahl in wei\u00dfem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u2781",
+    "desc": "Zahl 2 (Zahl in wei\u00dfem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u2782",
+    "desc": "Zahl 3 (Zahl in wei\u00dfem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u2783",
+    "desc": "Zahl 4 (Zahl in wei\u00dfem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u2784",
+    "desc": "Zahl 5 (Zahl in wei\u00dfem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u2785",
+    "desc": "Zahl 6 (Zahl in wei\u00dfem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u2786",
+    "desc": "Zahl 7 (Zahl in wei\u00dfem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u2787",
+    "desc": "Zahl 8 (Zahl in wei\u00dfem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u2788",
+    "desc": "Zahl 9 (Zahl in wei\u00dfem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u2789",
+    "desc": "Zahl 10 (Zahl in wei\u00dfem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u278a",
+    "desc": "Zahl 1 (fette Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u278b",
+    "desc": "Zahl 2 (fette Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u278c",
+    "desc": "Zahl 3 (fette Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u278d",
+    "desc": "Zahl 4 (fette Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u278e",
+    "desc": "Zahl 5 (fette Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u278f",
+    "desc": "Zahl 6 (fette Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u2790",
+    "desc": "Zahl 7 (fette Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u2791",
+    "desc": "Zahl 8 (fette Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u2792",
+    "desc": "Zahl 9 (fette Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u2793",
+    "desc": "Zahl 10 (fette Zahl in schwarzem Kreis, Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Zahlen"
+  }, {
+    "char": "\u2217",
+    "desc": "Stern aus der Mathematik, Multiplikation",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u2721",
+    "desc": "Davidstern",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u2726",
+    "desc": "4-eckig gef\u00fcllter Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u2727",
+    "desc": "4-eckiger Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u2729",
+    "desc": "5-eckiger Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u272a",
+    "desc": "5-eckiger Stern im schwarzen Kreis (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u272b",
+    "desc": "5-eckiger Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u272c",
+    "desc": "5-eckiger Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u272d",
+    "desc": "5-eckiger Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u272e",
+    "desc": "5-eckiger Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u272f",
+    "desc": "5-eckiger Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u2730",
+    "desc": "5-eckiger Stern mit Schatten (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u2731",
+    "desc": "6-eckiger fetter Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u2732",
+    "desc": "6-eckiger Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u2733",
+    "desc": "8-eckiger Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u2734",
+    "desc": "8-eckiger Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u2735",
+    "desc": "8-eckiger 3D-Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u2736",
+    "desc": "6-eckiger gef\u00fcllter Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u2737",
+    "desc": "8-eckiger gef\u00fcllter Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u2738",
+    "desc": "8-eckiger gef\u00fcllter, fette Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u2739",
+    "desc": "12-eckiger, gef\u00fcllte Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u273a",
+    "desc": "16-eckiger Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u273b",
+    "desc": "6-eckiger, abgerundeter Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u273c",
+    "desc": "6-eckiger, abgerundeter Stern mit Aush\u00f6hlung (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u273d",
+    "desc": "6-eckiger abgerundeter, fette Stern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u2742",
+    "desc": "8-eckiger Stern im schwarzen Kreis (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u2743",
+    "desc": "6-eckiger Stern mit 3D-Effekt (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u2749",
+    "desc": "6-eckiger Stern mit Knubbel (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u274a",
+    "desc": "8-eckiger Sonnenstern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u274b",
+    "desc": "8-eckiger fetter Sonnenstern (Dingbats)",
+    "section": "HTML Sonderzeichen: Dingbats Sterne"
+  }, {
+    "char": "\u2701",
+    "desc": "Schere",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2702",
+    "desc": "Schere",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2703",
+    "desc": "Schere",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2704",
+    "desc": "Schere",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2706",
+    "desc": "Telefon",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2707",
+    "desc": "Tonband",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2708",
+    "desc": "Flugzeug",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2709",
+    "desc": "Brief / E-Mail",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u270c",
+    "desc": "Fiedens- / Peace-Zeichen",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u270d",
+    "desc": "Schreibende Hand",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u270e",
+    "desc": "Stift",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u270f",
+    "desc": "Stift",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2710",
+    "desc": "Stift",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2711",
+    "desc": "Feder",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2712",
+    "desc": "Feder (schwarz)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2713",
+    "desc": "Haken Sonderzeichen",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2714",
+    "desc": "Haken Sonderzeichen (fett)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2715",
+    "desc": "Multiplikation / Nein",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2716",
+    "desc": "Multiplikation / Nein (fett)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2717",
+    "desc": "Stimme: Nein",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2718",
+    "desc": "Stimme: Nein (fett)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2719",
+    "desc": "Griechisches Kreuz",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u271a",
+    "desc": "Griechisches Kreuz (fett)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u271b",
+    "desc": "Kontur-Kreuz",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u271c",
+    "desc": "Kontur-Kreuz (fett)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u271d",
+    "desc": "lateinisches Kreuz / verstorben",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u271e",
+    "desc": "lateinisches Kreuz / verstorben (Schatten)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u271f",
+    "desc": "lateinisches Kreuz / verstorben (Schatten)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2720",
+    "desc": "Malteser Kreuz",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2722",
+    "desc": "Kreuz mit Punkten an den Enden",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2723",
+    "desc": "Kreuz",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2724",
+    "desc": "Kreuz mit Punkten an den Enden (fett)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2725",
+    "desc": "Kreuz aus Pik-Enden",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u273e",
+    "desc": "6-eckige, schwarz-wei\u00dfe Blume",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u273f",
+    "desc": "5-eckige, schwarze Blume",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2740",
+    "desc": "4-bl\u00e4ttrige Blume, wei\u00df",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2741",
+    "desc": "8-bl\u00e4ttrige Blume, wei\u00df",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2744",
+    "desc": "Schneeflocke",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2745",
+    "desc": "Schneeflocke",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2746",
+    "desc": "Schneeflocke",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2747",
+    "desc": "Funke",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2748",
+    "desc": "Funke (fett)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u274d",
+    "desc": "Wei\u00dfer Kreis (mit Schatten)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u274f",
+    "desc": "Wei\u00dfes Quadrat (mit Schatten unten rechts)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2750",
+    "desc": "Wei\u00dfes Quadrat (mit Schatten oben rechts)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2751",
+    "desc": "Wei\u00dfes Quadrat (mit Schatten unten rechts)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2752",
+    "desc": "Wei\u00dfes Quadrat (mit Schatten oben rechts)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2756",
+    "desc": "Kreuz aus 4 schwarzen Rauten",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2758",
+    "desc": "Senkrechter Strich (d\u00fcnn)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2759",
+    "desc": "Senkrechter Strich (dick)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u275a",
+    "desc": "Senkrechter Strich (fett)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u275b",
+    "desc": "Anf\u00fchrungszeichen (fett)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u275c",
+    "desc": "Komma (fett)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u275d",
+    "desc": "Doppeltes Anf\u00fchrungszeichen (fett)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u275e",
+    "desc": "Doppeltes Anf\u00fchrungszeichen (fett)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2761",
+    "desc": "Absatzzeichen (fett, geschwungen)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2762",
+    "desc": "Ausrufezeichen (fett, geschwungen)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2763",
+    "desc": "Ausrufezeichen (fett in Herzform)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2764",
+    "desc": "Herzsymbol (sehr fett)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u2765",
+    "desc": "Herzsymbol (sehr fett, um 90\u00b0 gedreht)",
+    "section": "HTML Sonderzeichen: Dingbats sonstige Zeichen"
+  }, {
+    "char": "\u0391",
+    "desc": "gr. griechisches Alpha",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u0392",
+    "desc": "Beta",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u0393",
+    "desc": "Gamma",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u0394",
+    "desc": "Delta",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u0395",
+    "desc": "Epsilon",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u0396",
+    "desc": "Zeta",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u0397",
+    "desc": "Eta",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u0398",
+    "desc": "Theta",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u0399",
+    "desc": "Iota",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u039a",
+    "desc": "Kappa",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u039b",
+    "desc": "Lambda",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u039c",
+    "desc": "Mu",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u039d",
+    "desc": "Nu",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u039e",
+    "desc": "Xi",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u039f",
+    "desc": "Omicron",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03a0",
+    "desc": "Pi",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03a1",
+    "desc": "Rho",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03a3",
+    "desc": "Sigma",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03a4",
+    "desc": "Tau",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03a5",
+    "desc": "Ypsilon",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03a6",
+    "desc": "Phi",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03a7",
+    "desc": "Chi",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03a8",
+    "desc": "Psi",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03a9",
+    "desc": "Omega",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03b1",
+    "desc": "alpha",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03b2",
+    "desc": "beta",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03b3",
+    "desc": "gamma",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03b4",
+    "desc": "delta",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03b5",
+    "desc": "epsilon",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03b6",
+    "desc": "zeta",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03b7",
+    "desc": "eta",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03b8",
+    "desc": "theta",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03b9",
+    "desc": "iota",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03ba",
+    "desc": "kappa",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03bb",
+    "desc": "lambda",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03bc",
+    "desc": "mu",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03bd",
+    "desc": "nu",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03be",
+    "desc": "xi",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03bf",
+    "desc": "omicron",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03c0",
+    "desc": "pi",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03c1",
+    "desc": "rho",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03c2",
+    "desc": "finales sigma",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03c3",
+    "desc": "sigma",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03c4",
+    "desc": "tau",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03c5",
+    "desc": "ypsilon",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03c6",
+    "desc": "phi",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03c7",
+    "desc": "chi",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03c8",
+    "desc": "psi",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03c9",
+    "desc": "omega",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03d1",
+    "desc": "theta",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03d2",
+    "desc": "Griechisches ypsilon (als Hook-Symbol)",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u03d6",
+    "desc": "griechisches pi",
+    "section": "HTML Sonderzeichen: Griechisches Alphabet"
+  }, {
+    "char": "\u00c0",
+    "desc": "lateinisches A mit Gravis",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00c2",
+    "desc": "lateinisches A mit Zirkumflex",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00c3",
+    "desc": "lateinisches A mit Tilde",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00c5",
+    "desc": "lateinisches A mit Ring",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00c7",
+    "desc": "lateinisches C mit Cedilla",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00c8",
+    "desc": "lateinisches E mit Gravis",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00c9",
+    "desc": "lateinisches E mit Akut",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00ca",
+    "desc": "lateinisches E mit Zirkumflex",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00cb",
+    "desc": "lateinisches E mit Diaeresis",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00cc",
+    "desc": "lateinisches I mit Gravis",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00cd",
+    "desc": "lateinisches I mit Akut",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00ce",
+    "desc": "lateinisches I mit Zirkumflex",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00cf",
+    "desc": "lateinisches I mit Umlaut",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00d0",
+    "desc": "lateinisches ETH",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00d1",
+    "desc": "lateinisches N mit Tilde",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00d2",
+    "desc": "lateinisches O mit Gravis",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00d3",
+    "desc": "lateinisches O mit Akut",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00d4",
+    "desc": "lateinisches O mit Zirkumflex",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00d5",
+    "desc": "lateinisches O mit Tilde",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u0127",
+    "desc": "kleines lateinisches h mit Querstrich",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00d8",
+    "desc": "lateinisches O mit Querstrich",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00d9",
+    "desc": "lateinisches U mit Gravis",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00da",
+    "desc": "lateinisches U mit Akut",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00db",
+    "desc": "lateinisches U mit Zirkumflex",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00dd",
+    "desc": "lateinisches Y mit Akut",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00de",
+    "desc": "lateinisches THORN",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00df",
+    "desc": "kleines lateinisches \u00df = ess-zed",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00e0",
+    "desc": "kleines lateinisches a mit Gravis",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00e1",
+    "desc": "kleines lateinisches a mit Akut",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00e2",
+    "desc": "kleines lateinisches a mit Zirkumflex",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00e3",
+    "desc": "kleines lateinisches a mit Tilde",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00e5",
+    "desc": "kleines lateinisches a mit Ring = kleines lateinisches a Ring",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00e7",
+    "desc": "kleines lateinisches c mit Cedilla",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00e8",
+    "desc": "kleines lateinisches e mit Gravis",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00e9",
+    "desc": "kleines lateinisches e mit Akut",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00ea",
+    "desc": "kleines lateinisches e mit Zirkumflex",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00eb",
+    "desc": "kleines lateinisches e mit Diaeresis",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00ec",
+    "desc": "kleines lateinisches i mit Gravis",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00ed",
+    "desc": "kleines lateinisches i mit Akut",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00ee",
+    "desc": "kleines lateinisches i mit Zirkumflex",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00ef",
+    "desc": "kleines lateinisches i mit Diaeresis",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00f0",
+    "desc": "kleines lateinisches Eth",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00f1",
+    "desc": "kleines lateinisches n mit Tilde",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00f2",
+    "desc": "kleines lateinisches o mit Gravis",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00f3",
+    "desc": "kleines lateinisches o mit Akut",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00f4",
+    "desc": "kleines lateinisches o mit Zirkumflex",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00f5",
+    "desc": "kleines lateinisches o mit Tilde",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00f8",
+    "desc": "kleines lateinisches o mit Querstrich",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00f9",
+    "desc": "kleines lateinisches u mit Gravis",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00fa",
+    "desc": "kleines lateinisches u mit acute",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00fb",
+    "desc": "kleines lateinisches u mit circumflex",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00fd",
+    "desc": "kleines lateinisches y mit Akut",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00fe",
+    "desc": "kleines lateinisches thorn",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u00ff",
+    "desc": "kleines lateinisches y mit Diaeresis",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u0192",
+    "desc": "kleines lateinisches f mit H\u00e4kchen = Funktion = Florin",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u0161",
+    "desc": "kleines lateinisches s mit Caron",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  }, {
+    "char": "\u0178",
+    "desc": "lateinisches Y mit Diaeresis",
+    "section": "HTML Sonderzeichen: Lateinisches Alphabet"
+  },
+  {
+    "char": "Ā",
+    "desc": "lateinisches A mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ǣ",
+    "desc": "AE mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ǟ",
+    "desc": "Ä mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ǡ",
+    "desc": "Dot A mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ā",
+    "desc": "lateinisches a mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ǣ",
+    "desc": "ae mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ǟ",
+    "desc": "ä mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ǡ",
+    "desc": "Dot a mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ē",
+    "desc": "lateinisches E mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ḗ",
+    "desc": "Acute E mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ḕ",
+    "desc": "Grave E mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ē",
+    "desc": "lateinisches e mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ḗ",
+    "desc": "Acute e mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ḕ",
+    "desc": "Grave e mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ḡ",
+    "desc": "lateinisches G mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  }, {
+    "char": "ḡ",
+    "desc": "lateinisches g mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ī",
+    "desc": "lateinisches I mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ī",
+    "desc": "lateinisches i mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ḹ",
+    "desc": "Dot L mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ḹ",
+    "desc": "Dot l mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ȫ",
+    "desc": "Ö mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ȱ",
+    "desc": "Dot O mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ǭ",
+    "desc": "Ogonek O mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ȭ",
+    "desc": "Tilde O mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ṓ",
+    "desc": "Acute O mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ṑ",
+    "desc": "Grave O mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ō",
+    "desc": "lateinisches o mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ȫ",
+    "desc": "ö mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ȱ",
+    "desc": "Dot o mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ǭ",
+    "desc": "Ogonek o mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ȭ",
+    "desc": "Tilde o mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ṓ",
+    "desc": "Acute o mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ṑ",
+    "desc": "Grave o mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ṝ",
+    "desc": "Dot R mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ṝ",
+    "desc": "Dot r mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ū",
+    "desc": "lateinisches U mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ǖ",
+    "desc": "Ü mit Macron (oben)",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ṻ",
+    "desc": "Ü mit Macron (unten)",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ū",
+    "desc": "lateinisches u mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ǖ",
+    "desc": "ü mit Macron (oben)",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ṻ",
+    "desc": "ü mit Macron (unten)",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ȳ",
+    "desc": "lateinisches Y mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  }, {
+    "char": "ȳ",
+    "desc": "lateinisches y mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  }, {
+    "char": "Ӣ",
+    "desc": "Cyrillic mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  }, {
+    "char": "ӣ",
+    "desc": "Cyrillic mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  }, {
+    "char": "Ӯ",
+    "desc": "Cyrilic mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  }, {
+    "char": "ӯ",
+    "desc": "Cyrillic mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  }, {
+    "char": "Ᾱ",
+    "desc": "Griechisch mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ᾱ",
+    "desc": "Griechisch mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ῑ",
+    "desc": "Griechisch mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ῑ",
+    "desc": "Griechisch mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "Ῡ",
+    "desc": "Griechisch mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  },
+  {
+    "char": "ῡ",
+    "desc": "Griechisch mit Macron",
+    "section": "HTML Sonderzeichen: Macrons"
+  }
+]

@@ -1,0 +1,61 @@
+[{
+    "desc": "HTML Sonderzeichen - Umlaute, Gravis und Akzente",
+    "key": 1,
+    "name": "Umlaute, Gravis und Akzente"
+  },
+  {
+    "desc": "HTML Sonderzeichen: Macrons",
+    "key":2,
+    "name": "Macrons"
+  },
+  {
+    "desc": "HTML Sonderzeichen: Lateinisches Alphabet",
+    "key": 3,
+    "name": "Latein erweitert"
+  },
+  {
+    "desc": "HTML Sonderzeichen: Griechisches Alphabet",
+    "key": 4,
+    "name": "Griechisch"
+  },
+  {
+    "desc": "HTML Sonderzeichen: Musik",
+    "key": 5,
+    "name": "Musik"
+  },
+  {
+    "desc": "HTML Sonderzeichen: Pfeile",
+    "key": 6,
+    "name": "Pfeile"
+  },
+  {
+    "desc": "HTML Sonderzeichen: Mathematik",
+    "key": 7,
+    "name": "Mathematik"
+  },
+  {
+    "desc": "HTML Sonderzeichen: Währungen",
+    "key": 8,
+    "name": "Währungen"
+  },
+  {
+    "desc": "HTML Sonderzeichen: Dingbats Zahlen",
+    "key": 9,
+    "name": "Zahlen im Kreis"
+  },
+  {
+    "desc": "HTML Sonderzeichen: Dingbats Sterne",
+    "key": 10,
+    "name": "Sterne"
+  },
+  {
+    "desc": "HTML Sonderzeichen: Dingbats sonstige Zeichen",
+    "key": 11,
+    "name": "Emojis"
+  },
+  {
+    "desc": "HTML Sonderzeichen: Typo (Typografie)",
+    "key":12,
+    "name": "Sonstige"
+  }
+]
