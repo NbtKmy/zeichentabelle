@@ -1,2 +1,3 @@
 # zeichentabelle
-Dies ist eine einfache Tabelle für Sonderzeichen für die Formalerschliessung mit ALMA
+Dies ist eine einfache Tabelle für Sonderzeichen. Anwendung z.B. für die Formalerschliessung mit ALMA...
+https://nbtkmy.github.io/zeichentabelle/src/index.html
