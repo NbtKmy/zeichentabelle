@@ -4,6 +4,9 @@ import { CopyToClipboard } from 'react-copy-to-clipboard';
 
 import { uiList, uiTile } from '../actions/uiActions';
 import { filterChars } from '../actions/filterActions';
+import { copyStatus } from '../actions/copyActions';
+
+import CopyAlert from './CopyAlert';
 
 import char_table from "../tables/char_table.json";
 import cat_table from "../tables/char_category.json";
@@ -15,13 +18,19 @@ import styles from "./styles.module.css";
   return {
     ui_list: store.uiReducer.ui_list,
     ui_tile: store.uiReducer.ui_tile,
-    chars_filtered: store.filterReducer.chars_filtered
+    chars_filtered: store.filterReducer.chars_filtered,
+    copy_status: store.copyReducer.copy_status
   };
 })
 
 
 
 export default class Layout extends React.Component {
+  componentDidMount() {
+    this.props.dispatch(copyStatus());
+  }
+
+
 
   uiList(){
     this.props.dispatch(uiList());
@@ -35,17 +44,20 @@ export default class Layout extends React.Component {
     this.props.dispatch(filterChars(chars, cat));
   }
 
+  copyStatus(){
+    this.props.dispatch(copyStatus());
+  }
 
 
 
 
   render() {
 
-    const { ui_list, ui_tile, chars_filtered } = this.props;
+    const { ui_list, ui_tile, chars_filtered, copy_status } = this.props;
 
     console.log(ui_tile);
     console.log(chars_filtered);
-    console.log(char_table);
+    console.log(copy_status);
 
 
 
@@ -60,7 +72,7 @@ export default class Layout extends React.Component {
     );
 
     const chars_tile = chars_filtered.map((c) =>
-    <CopyToClipboard text={c.char} key={c.char}>
+    <CopyToClipboard text={c.char} key={c.char} onCopy={this.copyStatus.bind(this)}>
     <button className={styles.tile} key={c.char}>
       <h3>{c.char}</h3>
     </button>
@@ -104,6 +116,7 @@ export default class Layout extends React.Component {
        <div className={styles.text}>
        <h1>Durch Klick wird das Zeichen in Clipboard kopiert</h1>
        </div>
+       <CopyAlert />
        </React.Fragment>
      )
      }
